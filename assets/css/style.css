@@ -91,3 +91,14 @@ a {
 .header .action {
   margin-left: 49px;
 }
+
+/* =============== HERO ================= */
+
+.hero {
+  padding: 56px;
+  background: #fff4ff;
+}
+
+.hero .body {
+  display: flex;
+}
