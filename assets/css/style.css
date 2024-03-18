@@ -190,7 +190,7 @@ a {
 .hero .heading {
   color: #171100;
   font-family: var(--font-heading);
-  font-style: 5.8rem;
+  font-size: 5.8rem;
   line-height: 1.17;
   font-weight: 700;
   letter-spacing: -1.17px;
